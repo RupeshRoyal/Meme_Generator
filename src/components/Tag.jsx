@@ -1,4 +1,4 @@
-import Reactfrom "react";
+import React from "react";
 import useGif from "../hooks/useGif";
 import Spinner from "./Spinner";
 // import { useEffect } from "react";
